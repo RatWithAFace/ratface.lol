@@ -27,7 +27,7 @@ body {
   margin: 0 auto;
   margin-top: 100px;
   width: 100%;
-  height: 150px;
+  height: 250px;
 }
 
 #gradient:after {
@@ -35,25 +35,25 @@ body {
   position: absolute;
   background: #E9E2D0;
   left: 50%;
-  margin-top: -67.5px;
-  margin-left: -270px;
+  margin-top: -57.5px;
+  margin-left: -305px;
   padding-left: 20px;
   border-radius: 5px;
-  width: 520px;
-  height: 275px;
+  width: 600px;
+  height: 355px;
   z-index: -1;
 }
 
 #card {
   position: absolute;
-  width: 450px;
-  height: 225px;
+  width: 530px;
+  height: 305px;
   padding: 25px;
   padding-top: 0;
   padding-bottom: 0;
   left: 50%;
   top: 67.5px;
-  margin-left: -250px;
+  margin-left: -285px;
   background: #E9E2D0;
   box-shadow: -20px 0 35px -25px black, 20px 0 35px -25px black;
   z-index: 5;
