@@ -25,9 +25,9 @@ body {
   background: #999955;
   background-image: linear-gradient(#DAB046 20%, #D73B25 20%, #D73B25 40%, #C71B25 40%, #C71B25 60%, #961A39 60%, #961A39 80%, #601035 80%);
   margin: 0 auto;
-  margin-top: 100px;
+  margin-top: 170px;
   width: 100%;
-  height: 250px;
+  height: 575px;
 }
 
 #gradient:after {
@@ -35,32 +35,32 @@ body {
   position: absolute;
   background: #E9E2D0;
   left: 50%;
-  margin-top: -57.5px;
-  margin-left: -305px;
+  margin-top: -137.5px;
+  margin-left: -650px;
   padding-left: 20px;
   border-radius: 5px;
-  width: 600px;
-  height: 355px;
+  width: 1300px;
+  height: 875px;
   z-index: -1;
 }
 
 #card {
   position: absolute;
-  width: 530px;
-  height: 305px;
+  width: 1130px;
+  height: 805px;
   padding: 25px;
   padding-top: 0;
   padding-bottom: 0;
   left: 50%;
   top: 67.5px;
-  margin-left: -285px;
+  margin-left: -580px;
   background: #E9E2D0;
   box-shadow: -20px 0 35px -25px black, 20px 0 35px -25px black;
   z-index: 5;
 }
 
 #card img {
-  width: 175px;
+  width: 445px;
   float: left;
   border-radius: 15px;
   margin-right: 20px;
@@ -72,16 +72,17 @@ body {
   color: #333;
   margin: 0 auto;
   padding: 0;
-  font-size: 20pt;
+  font-size: 65pt;
 }
 
 #card p {
   font-family: courier;
   color: #555;
-  font-size: 15px;
+  font-size: 30px;
 }
 
 #card span {
   font-family: courier;
-  color: #444
+  color: #444;
+  font-size: 25pt;
 }
