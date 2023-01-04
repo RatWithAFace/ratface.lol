@@ -75,7 +75,7 @@ body {
   font-size: 65pt;
 }
 
-#card p {
+.p {
   font-family: courier;
   color: #555;
   font-size: 30px;
@@ -85,4 +85,31 @@ body {
   font-family: courier;
   color: #444;
   font-size: 25pt;
+}
+
+.container {
+  width: 100%;
+  background-color: #E9E2D0;
+  margin-top: 10pt;
+}
+
+.skills {
+  text-align: right;
+  color: white;
+}
+
+.js {width: 90%; background-color: #DAAF45; border-radius: 5px;}
+.html {width: 70%; background-color: #D73B25; border-radius: 5px;}
+.py {width: 65%; background-color: #C71B25; border-radius: 5px;}
+.css {width: 25%; background-color: #961A39; border-radius: 5px;}
+
+.skillhead {
+  font-family: courier;
+  font-size: 5pt;
+  text-align: left;
+  margin-left: 10px;
+}
+
+.skillpercent {
+  margin-right: 10px;
 }
